@@ -32,7 +32,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/crate-crypto/go-ipa/banderwagon"
+	"github.com/tenderly/go-ipa/banderwagon"
 )
 
 var identity *Point

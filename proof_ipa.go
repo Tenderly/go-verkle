@@ -31,9 +31,9 @@ import (
 	"errors"
 	"sort"
 
-	ipa "github.com/crate-crypto/go-ipa"
-	"github.com/crate-crypto/go-ipa/bandersnatch/fp"
-	"github.com/crate-crypto/go-ipa/common"
+	ipa "github.com/tenderly/go-ipa"
+	"github.com/tenderly/go-ipa/bandersnatch/fp"
+	"github.com/tenderly/go-ipa/common"
 )
 
 type Proof struct {

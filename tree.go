@@ -30,7 +30,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/crate-crypto/go-ipa/banderwagon"
+	"github.com/tenderly/go-ipa/banderwagon"
 )
 
 type (

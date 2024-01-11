@@ -28,7 +28,7 @@ package verkle
 import (
 	"os"
 
-	"github.com/crate-crypto/go-ipa/ipa"
+	"github.com/tenderly/go-ipa/ipa"
 )
 
 type IPAConfig struct {
